@@ -8,18 +8,18 @@
       "image": "https://upload.wikimedia.org/wikipedia/ru/4/4b/Avatar-2009.jpg"
     },
     {
-      "title": "The Godfather",
-      "year": 1972,
-      "genre": ["Crime", "Drama"],
-      "director": "Francis Ford Coppola",
-      "image": "https://example.com/godfather.jpg"
+      "title": "Me Before You",
+      "year": 2012,
+      "genre": ["Drama"],
+      "director": "Thea Sharrock",
+      "image": "https://www.imdb.com/title/tt2674426/mediaviewer/rm2999837952/?ref_=tt_ov_i"
     },
     {
-      "title": "The Dark Knight",
-      "year": 2008,
-      "genre": ["Action", "Crime", "Drama"],
-      "director": "Christopher Nolan",
-      "image": "https://example.com/dark_knight.jpg"
+      "title": "Old",
+      "year": 2021,
+      "genre": ["Horror", "Drama"],
+      "director": "M. Night Shyamalan",
+      "image": "https://www.imdb.com/title/tt10954652/mediaviewer/rm4030919937/?ref_=tt_ov_i"
     },
     {
       "title": "Schindler's List",
