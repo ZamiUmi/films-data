@@ -1,11 +1,11 @@
 {
   "films":[
     {
-      "title": "The Shawshank Redemption",
-      "year": 1994,
-      "genre": ["Drama"],
-      "director": "Frank Darabont",
-      "image": "https://example.com/shawshank_redemption.jpg"
+      "title": "Avatar",
+      "year": 2009,
+      "genre": ["Fantastic"],
+      "director": "james cameron",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/4/4b/Avatar-2009.jpg"
     },
     {
       "title": "The Godfather",
